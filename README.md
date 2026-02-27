@@ -21,6 +21,9 @@
  ### 5. Film breakdown by rating, duration & cost ----- Multi-column GROUP BY
 
 # Key Learnings & Observations
+
+
+
  
 ## JOIN Comparison
 ## Running the same query across three different join types revealed the following:
